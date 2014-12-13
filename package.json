@@ -21,7 +21,7 @@
   "main": "./lib/passport-coinbase",
   "dependencies": {
     "pkginfo": "0.3.x",
-    "passport-oauth": "1.0.x"
+    "passport-oauth2": "git+ssh://git@github.com:digitaltangibletrust/passport-oauth2.git"
   },
   "devDependencies": {
     "vows": "0.7.x"
